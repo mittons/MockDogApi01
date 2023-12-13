@@ -1,0 +1,54 @@
+[
+    {
+      "weight": {
+        "imperial": "6-13",
+        "metric": "3-6"
+      },
+      "height": {
+        "imperial": "9-11.5",
+        "metric": "23-29"
+      },
+      "id": 1,
+      "name": "Affenpinscher",
+      "bredFor": "Small rodent hunting, lapdog",
+      "breedGroup": "Toy",
+      "lifeSpan": "10-12 years",
+      "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+      "origin": "Germany, France",
+      "referenceImageId": "BJa4kxc4X"
+    },
+    {
+      "weight": {
+        "imperial": "50-60",
+        "metric": "23-27"
+      },
+      "height": {
+        "imperial": "25-27",
+        "metric": "64-69"
+      },
+      "id": 2,
+      "name": "Afghan Hound",
+      "bredFor": "Coursing and hunting",
+      "breedGroup": "Hound",
+      "lifeSpan": "10-13 years",
+      "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+      "origin": "Afghanistan, Iran, Pakistan",
+      "referenceImageId": "hMyT4CDXR"
+    },
+    {
+      "weight": {
+        "imperial": "44-66",
+        "metric": "20-30"
+      },
+      "height": {
+        "imperial": "30",
+        "metric": "76"
+      },
+      "id": 3,
+      "name": "African Hunting Dog",
+      "bredFor": "A wild pack animal",
+      "lifeSpan": "11 years",
+      "temperament": "Wild, Hardworking, Dutiful",
+      "referenceImageId": "rkiByec47"
+    }
+  ]
